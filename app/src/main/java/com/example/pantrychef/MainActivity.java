@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         webView.setWebViewClient(new WebViewClient());
 
         // Sitenizin adresi:
-        webView.loadUrl("https://fethibey.github.io/pantry-chef/");
+        webView.loadUrl("https://fethibey.github.io/pantry_chef/");
     }
 
     @Override
